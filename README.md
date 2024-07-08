@@ -1,12 +1,17 @@
 # To access my Tableau Public projects, follow the link below:
 
-https://public.tableau.com/app/profile/brittany.bell3269
+https://public.tableau.com/app/profile/elfbread/vizzes
 
-# Currently, I have three practice projects hosted on Tableau Public:
+# Currently, I have these practice projects hosted on Tableau Public:
 
+* Visted Prefectures of Japan
+* World Travel Log
+* Sakura Blooms in Kyoto
+* Louisville Fire Calls Practice Project
+* Global Protests
+* COVID KY County Map
 * Boston Housing Prices Project
   * Sample projects from PluralSight, utilizing scatterplots.
 * Titanic Survivorship Project
   * Sample projects from PluralSight, utilizing bar charts.
-* KY COVID-19 
-  * Sample graphic showing a scatterplot of KY county by incident rate and percent of adults who are smokers. Completed as part of a hands-on training from the University of Kentucky.
+
